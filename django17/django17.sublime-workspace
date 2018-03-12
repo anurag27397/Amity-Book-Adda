@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"In",
+				"Information"
+			],
+			[
+				"p",
+				"POST"
+			],
+			[
+				"s",
+				"shop_views"
+			],
+			[
+				"shop",
+				"shop_views"
+			],
+			[
+				"a",
+				"about"
+			],
+			[
+				"co",
+				"contextMenuItem"
+			],
+			[
+				"c",
+				"contextMenuItem"
+			],
+			[
+				"my",
+				"my_twilio"
+			],
+			[
+				"acc",
+				"ACCOUNT_SID"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"bs3-te",
+				"bs3-template:html5	bs3-html5-template"
+			],
+			[
+				"bs3",
+				"bs3-form	bs3-form"
+			],
+			[
+				"f",
+				"footer	Tag"
+			],
+			[
+				"bo",
+				"BODY	Tag"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"siz",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"b",
+				"bootstrap"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/shop/templates/ownerinfo.html",
+			"settings":
+			{
+				"buffer_size": 172,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/shop/templates/product/list.html",
+			"settings":
+			{
+				"buffer_size": 1322,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"contr",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/admin.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/models.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/contact/models.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/contact/admin.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/contact/views.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/templates/ownerinfo.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/views.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/urls.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/bookshop/urls.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/templates/product/list.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/templates/product/post.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/contact/templates/contact2.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/bookshop/settings.py",
+		"/C/Users/anurag27397/AppData/Local/Temp/fz3temp-2/settings.py",
+		"/C/Users/anurag27397/AppData/Local/Temp/fz3temp-2/urls.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/templates/base.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/about/templates/about.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/about/templates/home.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/contact/templates/contact1.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/static/static/css/base.css",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/contact/templates/contact.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/contact/forms.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/about/views.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/about/models.py",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/templates/shop/base.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/templates/shop/Products/detail.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/templates/shop/Products/list.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/templates/shop/Products/post.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/templates/shop/product/list.html",
+		"/C/Users/anurag27397/Desktop/Amity Book Adda/django17/src/shop/tests.py",
+		"/M/CODE/Chrome Extension/Context/manifest.json",
+		"/C/Users/anurag27397/Documents/AT&T INTERN PROJECT2/django17/Scripts/static/static/css/fullbgimage.css",
+		"/M/CODE/Chrome Extension/Homepager/manifest.json",
+		"/C/Users/anurag27397/AppData/Local/Temp/fz3temp-2/resume.css",
+		"/M/CODE/Chrome Extension/Mnemonic/eventpage.js",
+		"/M/CODE/Chrome Extension/Mnemonic/manifest.json",
+		"/M/CODE/Chrome Extension/Mnemonic/eventpage.js.txt",
+		"/C/Users/anurag27397/Documents/AT&T INTERN PROJECT/django17/Scripts/mywebproject/profiles/views.py",
+		"/C/Users/anurag27397/Documents/AT&T INTERN PROJECT/django17/Scripts/mywebproject/profiles/templates/home.html",
+		"/C/Users/anurag27397/Documents/AT&T INTERN PROJECT/django17/Scripts/mywebproject/profiles/templates/base.html",
+		"/C/Users/anurag27397/Documents/AT&T INTERN PROJECT/django17/Scripts/mywebproject/profiles/admin.py",
+		"/C/Users/anurag27397/Documents/AT&T INTERN PROJECT/django17/Scripts/mywebproject/mywebproject/urls.py",
+		"/C/Users/anurag27397/Documents/AT&T INTERN PROJECT/django17/static/static/css/main.css",
+		"/C/Users/anurag27397/Documents/AT&T INTERN PROJECT/django17/Scripts/mywebproject/profiles/models.py",
+		"/C/Users/anurag27397/Documents/AT&T INTERN PROJECT/django17/Scripts/mywebproject/mywebproject/settings.py",
+		"/C/Users/anurag27397/Desktop/from datetime import datetime.py",
+		"/C/Users/anurag27397/Music/automationproject/window automation/clipboardproject.py",
+		"/C/Users/anurag27397/Music/resumeusingwow/index.html",
+		"/C/Users/anurag27397/Desktop/Twilio App/credentials.py",
+		"/C/Users/anurag27397/Desktop/Twilio App/send_sms.py",
+		"/C/Users/anurag27397/Music/automationproject/soupdemo.py",
+		"/C/Users/anurag27397/Music/automationproject/demo.py",
+		"/C/Users/anurag27397/Music/automationproject/soupdemo",
+		"/C/Users/anurag27397/Music/automationproject/test.py",
+		"/C/Users/anurag27397/Documents/portfoliowebsitedjango/Home/views.py",
+		"/C/Users/anurag27397/Documents/portfoliowebsitedjango/portfoliowebsite/settings.py",
+		"/C/Users/anurag27397/Documents/portfoliowebsitedjango/portfoliowebsite/urls.py",
+		"/C/Users/anurag27397/Documents/portfoliowebsitedjango/Home/models.py",
+		"/C/Users/anurag27397/Downloads/Compressed/bootstrap_cheatsheet/bootstrap_cheatsheet/a.html",
+		"/C/Users/anurag27397/Desktop/PortfolioWebsite/resumetemplate.html",
+		"/C/Users/anurag27397/Desktop/Orbit-Theme-master/Orbit-Theme-master/index.html",
+		"/C/Users/anurag27397/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/anurag27397/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/anurag27397/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/anurag27397/Desktop/PortfolioWebsite/index2.html",
+		"/C/Users/anurag27397/Desktop/Orbit-Theme-master/Orbit-Theme-master/assets/css/styles.css",
+		"/C/Users/anurag27397/Desktop/mine.JPG",
+		"/C/Users/anurag27397/Desktop/PortfolioWebsite/resume.css",
+		"/C/Users/anurag27397/Desktop/portfolio_sass-master/portfolio_sass-master/css/style.css",
+		"/C/Users/anurag27397/Desktop/PortfolioWebsite/index1.html",
+		"/C/Users/anurag27397/Desktop/PortfolioWebsite/styles.css",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/Homepager/manifest.json",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/Homepager/abc.html",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/Homepager/name.js",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/Homepager/background.js",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/manifest.json",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/popup.html",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/abc.html",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/cssfile.css",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/Facebook/manifest.json",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/hello.js",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/backgroung.js",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/icon.png",
+		"/C/Users/anurag27397/Desktop/Chrome Extension/popup.js",
+		"/C/Users/anurag27397/Desktop/PortfolioWebsite/css1.css",
+		"/C/Users/anurag27397/Desktop/PortfolioWebsite/index.html",
+		"/C/Users/anurag27397/Desktop/DevTips-Starter-Kit-master/index.html",
+		"/C/Users/anurag27397/Desktop/portfolio/_site/assets/main.css",
+		"/C/Users/anurag27397/Desktop/portfolio/_site/index.html",
+		"/C/Users/anurag27397/Documents/GitHub/2048-master/2048/style/main.css",
+		"/C/Users/anurag27397/Documents/GitHub/2048-master/2048/index.html",
+		"/C/Users/anurag27397/Downloads/Compressed/2048-master/2048-master/index.html",
+		"/C/Users/anurag27397/Desktop/New folder (4)/style.css",
+		"/C/Users/anurag27397/Desktop/New folder (4)/Project 1.htm",
+		"/C/Users/anurag27397/Desktop/style.css",
+		"/C/Users/anurag27397/Desktop/Project 1.htm",
+		"/C/Users/anurag27397/Desktop/styleproject1.css",
+		"/C/Users/anurag27397/Downloads/Video/Nanodegree/Intro to Programming Nanodegree/9.1.2 Add css style with html code/css-demo/css-demo/style.css",
+		"/C/Users/anurag27397/Downloads/Video/Nanodegree/Intro to Programming Nanodegree/9.1.2 Add css style with html code/css-demo/css-demo/index.html",
+		"/C/Users/anurag27397/Downloads/Video/Nanodegree/Intro to Programming Nanodegree/9.1.2 Add css style with html code/css-demo/css-demo/app.html",
+		"/C/Users/anurag27397/Downloads/Video/Nanodegree/Intro to Programming Nanodegree/6.Stage1 Intro-HOw to make a web page/stage1/index.html",
+		"/C/Users/anurag27397/Downloads/Compressed/example-stage-1-project/index.html",
+		"/C/Users/anurag27397/Desktop/New folder (3)/nanodegree project/Project 0.htm",
+		"/C/Users/anurag27397/Desktop/New folder (3)/Project 0.htm",
+		"/C/Users/anurag27397/Desktop/Project0.htm",
+		"/C/Users/anurag27397/Desktop/Project0",
+		"/C/Users/anurag27397/Documents/Ionic/index.html",
+		"/C/Users/anurag27397/Documents/materialize css/index.html",
+		"/C/Users/anurag27397/Documents/Bootstrap/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"group",
+			"footer",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/shop/templates/ownerinfo.html",
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/shop/templates/product/list.html",
+					"settings":
+					{
+						"buffer_size": 1322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1078,
+								1078
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
